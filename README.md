@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail alexander@krasuski.dk
+- what i use i use visual studio code right now but i wanna have experience in more programs for coding and coding languages
 
 
 <!---
